@@ -5,8 +5,16 @@ Script tự động build hệ thống web server HA
 
 - Điều Kiện: 5 Server - OS Ububnu
 
-- Cài biến môi trường phù hợp với bài LAB
+- Set biến môi trường phù hợp với bài LAB
 
+  - ENV Server1-Server2:
+  
+          curl -skLO https://raw.githubusercontent.com/Jaweser3/build-system-web-server-high-availability/main/ENV-S1-S2.sh
+          
+  - ENV DBA1-DBA2-DBA3:
+  
+          curl -skLO https://raw.githubusercontent.com/Jaweser3/build-system-web-server-high-availability/main/ENV-DBA.sh
+  
 
 
 
