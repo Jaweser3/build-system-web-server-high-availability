@@ -29,3 +29,12 @@ Install and Configuration:
 ```console  
   curl -skLO https://raw.githubusercontent.com/Jaweser3/build-system-web-server-high-availability/main/Script-Config%2BInstall-DBA1-2-3.sh
 ```
+
+- Demo result
+
+![image](https://user-images.githubusercontent.com/96831921/176256023-cc301e3b-9b48-41c3-bc5e-580878a0fc90.png)
+
+![image](https://user-images.githubusercontent.com/96831921/176256051-006ee0d6-e547-4bcc-b153-a856c7f96ca8.png)
+
+![image](https://user-images.githubusercontent.com/96831921/176256069-9752b353-7096-49a4-9c32-7ef8a12b1e54.png)
+
