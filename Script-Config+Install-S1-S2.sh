@@ -1,4 +1,5 @@
 #!bin/bash
+echo "Script by daohung"
 echo " Update..."
 apt update 
 sleep 5;
